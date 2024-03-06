@@ -1,6 +1,6 @@
 openai
 torch
-pinecone
+pinecone-client
 langchain
 streamlit
 python-dotenv
