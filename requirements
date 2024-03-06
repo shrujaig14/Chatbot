@@ -1,0 +1,6 @@
+openai==v0.27.0
+torch==1.10.0
+pinecone==1.14.0
+langchain==0.1.0
+streamlit==1.16.0
+python-dotenv==0.19.2
